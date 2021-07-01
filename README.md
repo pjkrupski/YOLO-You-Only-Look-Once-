@@ -1,5 +1,5 @@
 
-# 1430FinalProject
+# YOLO Implementation 
 ## Commands to get data
 1. pip3 install kaggle
 2. cd ~/.kaggle

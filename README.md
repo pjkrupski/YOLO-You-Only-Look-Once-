@@ -1,6 +1,6 @@
 
 # YOLO Implementation 
-## Commands to get data
+## Data Retrieval
 1. pip3 install kaggle
 2. cd ~/.kaggle
 3. mv [where kaggle.json is] ./
